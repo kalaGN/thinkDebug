@@ -6,6 +6,7 @@
   2. 项目入口定义初始化变量
   
   >define('START_TIME', microtime(true));
+  
   >define('START_MEM', memory_get_usage());
   
   3. 使用
